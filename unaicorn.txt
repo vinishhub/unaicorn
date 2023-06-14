@@ -1,0 +1,1 @@
+ssh -i unaicorn-key.pem ubuntu@ec2-44-202-247-220.compute-1.amazonaws.com
